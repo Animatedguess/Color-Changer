@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+}
+#notice{
+    background-color: rgb(27, 200, 191);
+}
+div{
+    display:inline-flex;
+    width:100%;
+}
+#planes{
+    display: inline-flex;
+}
+#Plane-1{
+    background-color: blue;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-color: white;
+}
+#Plane-2{
+    background-color: red;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-color: white;
+}
+#Plane-3{
+    background-color: yellow;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-color: white;
+}
+#Plane-4{
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-color: white;
+}
